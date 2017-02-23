@@ -8,6 +8,6 @@
 - The "förbundskansler" always serves the ball.
 - The other player strikes one ball each.
 - If the "förbundskansler" misses a ball, the winner becomes the new "förbundskansler".
-- When someone becomes "förbundskansler" their strikes are removed.
-- If the other players misses the ball they get a strike.
-- After 2 strikes you're out.
+- When someone becomes "förbundskansler" their penalty points are removed.
+- If the other players misses the ball they get a penalty point.
+- After 2 penalty points you're out.
