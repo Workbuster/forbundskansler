@@ -6,11 +6,17 @@
 
 ## During the game
 - The "förbundskansler" always serves the ball.
-- The other player strikes one ball each.
-- If the other players misses the ball they get a penalty point.
+- The opposing players strikes one ball each.
+- If the opposing players misses the ball they get a penalty point.
 - After 2 penalty points you're out.
 - If the "förbundskansler" misses a ball, the winner becomes the new "förbundskansler".
 - When someone becomes "förbundskansler" their penalty points are removed.
+
+## Sudden
+- Short for sudden death.
+- If there has been 3 exchanges of the "förbundskansler" position, without any penalty points dealt, the game enters "sudden".
+- In "sudden" any opposing player that looses a ball is immediately eliminated from the game, and the game goes back to normal.
+- When a "förbundskansler" looses the ball in "sudden" the game enters "super sudden". This is the same as "sudden".
 
 ## Perfect rounds
 A perfect round can be achieved by the “förbundskansler” if the following requirements are met:
