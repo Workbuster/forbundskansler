@@ -3,6 +3,7 @@
 ## Start of the game
 - One player is selected as "förbundskansler" and stand alone on their side of the table.
 - The other players stand on the opposite side of the table.
+- When there are more than 5 players, the game is always played in "sudden" mode
 
 ## During the game
 - The "förbundskansler" always serves the ball.
