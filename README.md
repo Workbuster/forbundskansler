@@ -26,4 +26,6 @@ A perfect round can be achieved by the “förbundskansler” if the following r
 - The “förbundskansler” reaches the final of the next round without losing the status of “förbundskansler”
 - The “förbundskansler” wins that final of that round without losing a point to the opposing player.
 
+The "förbundskansler" has to, at some point during the round, announce that he/she is heading for a perfect round.
+
 The opposing players are then compelled by *International Förbundskansler Federation ™* honor standards to buy the victorious “förbundskansler” lunch (“Dagens A”, for example).
